@@ -1,0 +1,12 @@
+# SECURITY: Never commit credentials, tokens, or secrets
+credentials/
+*.token
+*.secret
+*.key
+*.pem
+*.env
+.env.*
+*credentials*
+*token*
+*secret*
+.DS_Store
